@@ -9,3 +9,4 @@ The 3D contribution calendar will be automatically generated once the GitHub Act
 You can manually trigger it from the Actions tab of your repository.
 -->
 
+![1276588](https://github.com/user-attachments/assets/54fef4b8-c709-40da-95dc-7a902e5466da)
