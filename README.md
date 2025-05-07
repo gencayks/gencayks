@@ -1,4 +1,4 @@
-pre-valued new facebook new meta new google CTO 
+pie piping
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
