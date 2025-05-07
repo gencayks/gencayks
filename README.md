@@ -1,5 +1,4 @@
-cTo 
-
+pre-valued new facebook new meta new google CTO 
 
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
